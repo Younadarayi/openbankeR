@@ -29,7 +29,7 @@ Create a new client for querying the API
 ```{r, eval = FALSE}
 library(openbankeR)
 
-openBankingClient <- openbankeR::CreateOpenBankingClient()
+openBankingClient <- openbankeR::CreateOpenBankingClient(6219861989629406)
 ```
 
 
